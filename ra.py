@@ -21,7 +21,7 @@ PRIMARY_ADMIN_ID = 1451422178
 POLL_INTERVAL = 2
 MAX_SSE_RETRIES = 5
 # DEFAULT FIREBASE URL (Only for admin use)
-DEFAULT_FIREBASE_URL = "https://your-default-firebase.firebaseio.com/"  # <-- Yahan apna default Firebase URL daalein
+DEFAULT_FIREBASE_URL = "https://union-1-1b7ae-default-rtdb.asia-southeast1.firebasedatabase.app/.json"  # <-- Yahan apna default Firebase URL daalein
 AUTO_START_DEFAULT_FIREBASE = True  # <-- TRUE rakhne se bot start hote hi default firebase monitoring shuru ho jayega
 # ---------------------------------------
 
